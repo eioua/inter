@@ -1,4 +1,4 @@
-## Welcome to yesmora
+# 欢迎来到yesmora
 
  [editor on GitHub](https://github.com/eioua/yesmora/edit/gh-pages/index.md) 
 
