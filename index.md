@@ -23,7 +23,7 @@
 
 ## Windows 下载
 
-下载网站(使用ed2k/
+下载网站(使用ed2k/BT)
 
 [旧MSDN](https://msdn.itellyou.cn/)
 
