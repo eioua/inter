@@ -19,3 +19,17 @@
 不如试试[浏览器下载](https://github.com/eioua/yesmora/blob/97a71590c59b9bef4af38851d7ca4a0fc33f2d40/HMCL-3.5.2.218.exe)
 
 (他还要下载Java，1.18或以上要更高版本）
+
+
+## Windows 下载
+
+下载网站(使用ed2k/
+
+[旧msdn](https://msdn.itellyou.cn/)
+
+[MSDN](https://next.itellyou.cn/)这个要登录
+
+[MSDN系统库](https://www.xitongku.com/)
+
+暂时没有找到更好的下载工具，推荐使用[迅雷](https://down.sandai.net/thunder11/XunLeiWebSetup11.3.10.1912dl.exe)
+
