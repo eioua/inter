@@ -17,3 +17,5 @@
 [官网下载hmcl](https://hmcl.huangyuhui.net/)  (用通城网盘速度慢)(不信可以自己试试)
 
 不如试试[浏览器下载](https://github.com/eioua/yesmora/blob/97a71590c59b9bef4af38851d7ca4a0fc33f2d40/HMCL-3.5.2.218.exe)
+
+(他还要下载Java，1.18或以上要更高版本）
