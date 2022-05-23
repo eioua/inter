@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to yesmora
 
-You can use the [editor on GitHub](https://github.com/eioua/yesmora/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ [editor on GitHub](https://github.com/eioua/yesmora/edit/gh-pages/index.md) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Minecraft
 
-### Markdown
+##### 使用hmcl 下载/使用 Minecraft
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+教程 [bilibili](https://www.bilibili.com/video/BV1aE411P7D5/)(他的hmcl版本不同）
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+[皮肤站地址](https://littleskin.cn/)
 
-- Bulleted
-- List
+[认证服务器地址](https://mcskin.littleservice.cn/api/yggdrasil)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+[官网下载hmcl](https://hmcl.huangyuhui.net/)  (用通城网盘速度慢)(不信可以自己试试)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eioua/yesmora/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+不如试试[浏览器下载](https://github.com/eioua/yesmora/blob/97a71590c59b9bef4af38851d7ca4a0fc33f2d40/HMCL-3.5.2.218.exe)
