@@ -25,7 +25,7 @@
 
 下载网站(使用ed2k/
 
-[旧msdn](https://msdn.itellyou.cn/)
+[旧MSDN](https://msdn.itellyou.cn/)
 
 [MSDN](https://next.itellyou.cn/)这个要登录
 
