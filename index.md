@@ -33,3 +33,5 @@
 
 暂时没有找到更好的下载工具，推荐使用[迅雷](https://down.sandai.net/thunder11/XunLeiWebSetup11.3.10.1912dl.exe)
 
+我推荐一个网站  [divmond.ysepan.com](divmond.ysepan.com)
+
