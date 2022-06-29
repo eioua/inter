@@ -1,4 +1,4 @@
-# 欢迎来到yesmora
+# 欢迎来到INTER
 
  [editor on GitHub](https://github.com/eioua/yesmora/edit/gh-pages/index.md) 
 
