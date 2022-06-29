@@ -49,6 +49,18 @@
 
 [黑客PC模拟](https://pranx.com/hacker/)
 
+[windows7](https://win7simu.visnalize.com)
+
+[winxpnew!](https://winxp.vercel.app/)
+
+[macOSnew!!](https://macos-web.app/)
+
+
+
+
+
+
+
 您喜欢这个网站吗？
 
 
