@@ -57,9 +57,7 @@
 
 [扫雷](https://mines.vercel.app/)
 
-
-
-
+有问题?[反馈](https://github.com/eioua/inter/issues)
 
 您喜欢这个网站吗？
 
